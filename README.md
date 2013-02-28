@@ -1,4 +1,4 @@
-edge-server
-===========
+Edge Server
+============
 
-Edge server proxying filtered content from an origin server. Provides image resizing functionality by default.
+An edge server built on nodejs for DIY Content Delivery Networks.
